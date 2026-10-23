@@ -21,7 +21,6 @@ import {
   GraduationCap,
   ShieldAlert,
   RotateCcw,
-  Sparkles,
   Info,
   Bug,
   Lock,

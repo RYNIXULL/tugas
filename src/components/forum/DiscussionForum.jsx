@@ -9,7 +9,6 @@ import {
   CheckCircle,
   User,
   Clock,
-  Sparkles,
   Lock,
   Unlock,
   AlertTriangle
